@@ -1,5 +1,5 @@
 <h1>Книжное издание</h1>
-<img src="[https://github.com/emelyagr/Steganographic-methods-of-information-security/blob/main/Обложка%20книжного%20издания.%20Курс%20«Стеганографические%20методы%20защиты%20информации».png?raw=true">
+<img src="https://github.com/emelyagr/Digital-personal-security/blob/main/Обложка%20книжного%20издания.%20Цифровая%20безопасность%20личности.jpg">
 <p>Лицензия ООО "Издательские решения" (Ridero).
 <br>ISBN .
 <br>УДК .
@@ -11,7 +11,7 @@
 <p>3. Емельянов Г. А., Цифровая безопасность личности. - [б.м.] : Издательские решения, 2025. – 248 с.</p>
 
 <p>Библиографический вид электронного издания: 
-<br>Емельянов Г. А., Цифровая безопасность личности [Электронный ресурс] / GitHub – 2008–20nn. Электрон. дан. – Режим доступа: https://github.com/emelyagr/Steganographic-methods-of-information-security, свободный (дата обращения: nn.nn.nn).</p>
+<br>Емельянов Г. А., Цифровая безопасность личности [Электронный ресурс] / GitHub – 2008–20nn. Электрон. дан. – Режим доступа: https://github.com/emelyagr/Digital-personal-security, свободный (дата обращения: nn.nn.nn).</p>
 
 <p> Бумажные и электронные издания:</p> 
 <p> Ridero: .</p> 
