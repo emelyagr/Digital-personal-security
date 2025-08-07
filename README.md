@@ -1,5 +1,5 @@
 <h1>Книжное издание</h1>
-<img src="https://github.com/emelyagr/Digital-personal-security/blob/main/Обложка%20книжного%20издания.%20Цифровая%20безопасность%20личности.jpg" class="center" width="350" height="300">
+<img src="https://github.com/emelyagr/Digital-personal-security/blob/main/Обложка%20книжного%20издания.%20Цифровая%20безопасность%20личности.jpg" class="center" width="700" height="500">
 <p>Лицензия ООО "Издательские решения" (Ridero).
 <br>ISBN .
 <br>УДК .
