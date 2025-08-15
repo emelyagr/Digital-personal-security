@@ -13,14 +13,14 @@
 <p>Библиографический вид электронного издания: 
 <br>Емельянов Г. А., Цифровая безопасность личности [Электронный ресурс] / GitHub – 2008–20nn. Электрон. дан. – Режим доступа: https://github.com/emelyagr/Digital-personal-security, свободный (дата обращения: nn.nn.nn).</p>
 
-<p> Бумажные и электронные издания:</p> 
-<p> Ridero: https://ridero.ru/books/cifrovaya_bezopasnost_lichnosti/.</p> 
+<p> Бумажные издания:</p> 
+<p> Ridero (и электронное): https://ridero.ru/books/cifrovaya_bezopasnost_lichnosti/.</p> 
 <p> Ozon: https://www.ozon.ru/product/tsifrovaya-bezopasnost-lichnosti-grigoriy-andreevich-emelyanov-2683781433.</p> 
 <p> Wildberries: https://www.wildberries.ru/catalog/496186456/detail.aspx.</p> 
 <p> Яндекс Маркет: .</p> 
 
-
 <p> Только электронные издания:</p> 
+<p> Ozon: https://www.ozon.ru/product/tsifrovaya-bezopasnost-lichnosti-grigoriy-andreevich-emelyanov-elektronnaya-kniga-2674234634.</p>
 <p> Wildberries Цифровой: https://digital.wildberries.ru/offer/533380.</p> 
 <p> Яндекс Маркет: https://market.yandex.ru/card/tsifrovaya-bezopasnost-lichnosti-tsifrovaya-kniga/4587367793.</p>
 <p> Литрес: https://www.litres.ru/book/grigoriy-andreevich-emelyanov/cifrovaya-bezopasnost-lichnosti-72327610/.</p> 
