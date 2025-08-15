@@ -15,17 +15,18 @@
 
 <p> Бумажные и электронные издания:</p> 
 <p> Ridero: https://ridero.ru/books/cifrovaya_bezopasnost_lichnosti/.</p> 
-<p> Ozon: .</p> 
-<p> Wildberries: .</p> 
+<p> Ozon: https://www.ozon.ru/product/tsifrovaya-bezopasnost-lichnosti-grigoriy-andreevich-emelyanov-2683781433.</p> 
+<p> Wildberries: https://www.wildberries.ru/catalog/496186456/detail.aspx.</p> 
 <p> Яндекс Маркет: .</p> 
 
+
 <p> Только электронные издания:</p> 
-<p> Wildberries Цифровой: .</p> 
-<p> Яндекс Маркет: .</p>
-<p> Литрес: .</p> 
+<p> Wildberries Цифровой: https://digital.wildberries.ru/offer/533380.</p> 
+<p> Яндекс Маркет: https://market.yandex.ru/card/tsifrovaya-bezopasnost-lichnosti-tsifrovaya-kniga/4587367793.</p>
+<p> Литрес: https://www.litres.ru/book/grigoriy-andreevich-emelyanov/cifrovaya-bezopasnost-lichnosti-72327610/.</p> 
 <p> Яндекс Книги (Bookmate): .</p> 
-<p> МТС Строки: .</p> 
-<p> Amazon: .</p> 
+<p> МТС Строки: https://stroki.mts.ru/book/tsifrovaya-bezopasnost-lichnosti-329894.</p> 
+<p> Amazon: https://www.amazon.com/Цифровая-безопасность-личности-Емельянов-Андреевич-ebook/dp/B0FM88XLXJ.</p> 
 
 <p> Есть и другие источники в сети Интернет. Крайне не рекомендую пользоваться некоторыми из них, особенно предлагающими слив книги, есть большая вероятность получения вредоносного файла или кражи денег через формы фишинга.</p> 
 <p> Книга изготавливается по технологии "печать по требованию" (т.е., покупая книгу, её начинают изготавливать). Срок печати 96 часов, после чего идёт процесс транспортировки и прочие детали. Книга возможно будет снята (не факт) снята с дальнейшего производства и публикации, но тем не менее останется в репозиториях GitHub в электронном формате (формат "EPUB", если Вам нужен "PDF", обратитесь к автору). Так же по желанию и просьбам, могу делать личные бумажные тиражи книги в индивидуальном порядке: твердый переплет, мягкий, цветной формат книги, или чёрно-белый, сколько экземпляров и пр.</p> 
