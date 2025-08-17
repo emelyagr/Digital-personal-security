@@ -17,7 +17,7 @@
 <p> Ridero (и электронное): https://ridero.ru/books/cifrovaya_bezopasnost_lichnosti/.</p> 
 <p> Ozon: https://www.ozon.ru/product/tsifrovaya-bezopasnost-lichnosti-grigoriy-andreevich-emelyanov-2683781433.</p> 
 <p> Wildberries: https://www.wildberries.ru/catalog/496186456/detail.aspx.</p> 
-<p> Яндекс Маркет: .</p> 
+<p> Яндекс Маркет: https://market.yandex.ru/card/tsifrovaya-bezopasnost-lichnosti/4589758543.</p> 
 
 <p> Только электронные издания:</p> 
 <p> Ozon: https://www.ozon.ru/product/tsifrovaya-bezopasnost-lichnosti-grigoriy-andreevich-emelyanov-elektronnaya-kniga-2674234634.</p>
